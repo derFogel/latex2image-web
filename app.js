@@ -2,7 +2,7 @@ const fs = require('fs');
 const shell = require('shelljs');
 const express = require('express');
 
-const port = 3001;
+const port = 80;
 
 const staticDir = 'static/';
 const tempDirRoot = 'temp/';
